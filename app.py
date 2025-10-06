@@ -14,13 +14,11 @@ st.set_page_config(page_title="AI Image Classifiers", layout="wide", initial_sid
 st.markdown("""
     <style>
     .main {
-        background-color: #f5f7fa;
         padding: 20px;
         border-radius: 10px;
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     }
     .stButton>button {
-        background-color: #4a90e2;
         color: white;
         border-radius: 8px;
         padding: 10px 20px;
